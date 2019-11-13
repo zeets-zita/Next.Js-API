@@ -11,3 +11,6 @@ npm install
 
 # To launch
 npm run dev
+
+#To launch server 
+npm run server
