@@ -1,7 +1,7 @@
 # Next.Js-API
 
 
-Next.js that fetches information for countries from an API
+Next.js app that fetches information for countries from an API
 
 ## Quick Start
 
