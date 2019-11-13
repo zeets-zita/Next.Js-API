@@ -4,7 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "dev": "node server.js",
+    "dev": "next",
+    "server": "node server.js",
     "build": "next build",
     "start": "next start"
   },
